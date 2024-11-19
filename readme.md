@@ -1,7 +1,9 @@
 <h1 align="center">yo im hypeer</h1>
 <h3 align="center">A spontaneous external assists developer</h3>
 
-- 🔭 My biggest project was **medusa, a valorant external arduino & python powered assist**
+- 🔭 My biggest project was **VISION, a CS2 Faceit external arduino, python & AI powered assist**
+
+- 🔭 Project that i was most hyped with **medusa, a valorant external arduino & python powered assist**
 
 - 🌱 I’m currently learning **html, css, python [higher level]**
 
