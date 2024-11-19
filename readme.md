@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **html, css, python [higher level]**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
