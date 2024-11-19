@@ -3,7 +3,7 @@
 
 - 🤯 My biggest project was **VISION, a cs2 faceit external arduino, python & AI powered assist**
 
-- 🗣 Project that i was most hyped with **medusa, a valorant external arduino & python powered assist**
+- 🗣 Project that i was most hyped with was **medusa, a valorant external arduino & python powered assist**
 
 - 🌱 I’m currently learning **html, css, python [higher level]**
 
