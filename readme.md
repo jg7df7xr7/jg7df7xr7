@@ -5,7 +5,9 @@
 
 - 🗣 Project that i was most hyped with was **medusa, a valorant external arduino & python powered assist**
 
-- 🌱 I’m currently learning **html, css, AI, python [higher level]**
+- ✍️ Self-learner, no school
+
+- 🌱 Currently washed
 
 
 <p align="left">
