@@ -7,8 +7,6 @@
 
 - ✍️ Self-learner, no school
 
-- 🙅‍♂️ I don't cheat in games
-
 - 🌱 Currently washed
 
 
